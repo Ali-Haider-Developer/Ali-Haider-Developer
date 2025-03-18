@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Haider!
+# 👋 Hi, I'm Ali Haider Developer!
 
 ## 🚀 About Me
 I'm a **Frontend & AI Agent Developer** with expertise in:
